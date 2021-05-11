@@ -13,7 +13,7 @@ exports.handler = async function http(req) {
 
     <h1 class="center-text">
       <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      <p style="color:blue">Hello Kali! How are you doing?.</p>
+      <p style="color:yellow">Hello Kali! How are you doing?.</p>
     </h1>
 
     <p class="center-text">
